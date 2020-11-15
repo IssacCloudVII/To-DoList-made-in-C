@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1605424748 source:d:\programacion\c\to-dolist\to-dolist\main.c
+	<stdio.h>
+	<stdlib.h>
+
